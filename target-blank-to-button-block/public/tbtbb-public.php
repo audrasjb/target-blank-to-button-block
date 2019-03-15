@@ -9,7 +9,7 @@ jQuery(document).ready(function(){
 		if ( jQuery(this).attr('target') != '_blank' ) {
 			jQuery(this).attr('target', '_blank');
 			jQuery(this).attr('rel', 'external noreferrer noopener');
-			jQuery(this).append('<span class=\"screen-reader-text\" style=\"clip:rect(1px,1px,1px,1px);overflow:hidden;position:absolute !important;height:1px;width:1px;\"> " . esc_html__( 'Opens in a new window', 'target-blank-to-button-block' ) . "</span>');
+			jQuery(this).append('<span class=\"screen-reader-text\" style=\"clip:rect(1px,1px,1px,1px);overflow:hidden;position:absolute !important;height:1px;width:1px;\"> " . esc_html__( '(opens in a new window)', 'target-blank-to-button-block' ) . "</span>');
 		}
 	});
 });
@@ -21,7 +21,7 @@ jQuery(document).ready(function(){
 		if ( jQuery(this).attr('target') != '_blank' ) {
 			jQuery(this).attr('target', '_blank');
 			jQuery(this).attr('rel', 'external noreferrer noopener');
-			jQuery(this).append('<span class=\"screen-reader-text\" style=\"clip:rect(1px,1px,1px,1px);overflow:hidden;position:absolute !important;height:1px;width:1px;\"> " . esc_html__( 'Opens in a new window', 'target-blank-to-button-block' ) . "</span>');
+			jQuery(this).append('<span class=\"screen-reader-text\" style=\"clip:rect(1px,1px,1px,1px);overflow:hidden;position:absolute !important;height:1px;width:1px;\"> " . esc_html__( '(opens in a new window)', 'target-blank-to-button-block' ) . "</span>');
 		}
 	});
 });
