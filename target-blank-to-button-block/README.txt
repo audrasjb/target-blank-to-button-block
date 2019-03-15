@@ -33,6 +33,22 @@ It provides two options:
 1. Install the plugin and activate.
 2. Got to Appearance > Button block target and choose your options.
 
+== Frequently Asked Questions ==
+ 
+= How to configure the plugin settings? =
+
+Plugin settings are available under Appearance > Button block target.
+
+= What will happens once the target blank will be available in Gutenberg? =
+
+Once the button block target blank feature is released in Gutenberg, the plugin will display a notice on your WordPress Admin to disable it. But even if you leave the plugin active, it won’t break your site, no worries :-)
+
+== Screenshots ==
+ 
+1. Plugin settings
+2. Plugin settings page Location: Appearance > Button block target
+3. How to use a CSS class to add target blank only to specific links
+
 == Changelog ==
 
 = 0.1 =
