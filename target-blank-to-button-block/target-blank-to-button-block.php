@@ -1,7 +1,7 @@
 <?php
 /**
-Plugin Name: Add Target Blank to Button Block
-Plugin URI: https://jeanbaptisteaudras.com/target-blank-to-button-block
+Plugin Name: Target Blank to Button Block
+Plugin URI: https://jeanbaptisteaudras.com/2019/03/ajout-du-target-blank-sur-les-liens-du-bloc-bouton-de-lediteur-gutenberg-de-wordpress/
 Description: Add Target Blank to Gutenberg Button Block. Provisory fix to add target blank to button blocks.
 Author: Jb Audras
 Version: 0.1

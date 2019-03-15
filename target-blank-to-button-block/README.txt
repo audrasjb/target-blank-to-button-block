@@ -1,4 +1,4 @@
-=== Add Target Blank to Button Block ===
+=== Target Blank to Button Block ===
 Contributors: audrasjb
 Donate link: https://www.paypal.me/audrasjb
 Tags: Gutenberg, block, button, target, blank, link
@@ -14,6 +14,19 @@ Add Target Blank to Gutenberg Button Block. Provisory fix to add target blank to
 == Description ==
 
 Add Target Blank to Gutenberg Button Block. Provisory fix to add target blank to button blocks.
+
+The target blank feature is already addressed in Gutenberg project GitHub repository. This plugin aims to provide an alternative for those who want this feature now. 
+
+Please note that this plugin uses Javascript to add Target blank on Button Block as a fallback. 
+
+A `screen reader text` is also added for better accessibility and a `rel="external noreferrer noopener"` attribute is added for better security.
+
+It provides two options:
+
+* Automatically add target blank to ALL Button blocks (default)
+* Only add target blank to links that have the `blank` CSS class
+
+(see screenshots below)
 
 == Installation ==
 
